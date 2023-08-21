@@ -1,0 +1,50 @@
+{
+  "questions": [
+    {
+      "category": "Languages",
+      "question": "What are the official languages of Switzerland?",
+      "answers": [
+        "German, French, Italian, English",
+        "French, Italian, German, Romansch",
+        "Italian, German, French, Yiddish"
+      ],
+      "correct answer": "French, Italian, German, Romansch"
+    },
+    {
+      "category": "Geography",
+      "question": "Where is Berchtesgaden located?",
+      "answers": [
+        "Bavaria, Germany",
+        "South Tyrol, Austria",
+        "Graubunden, Switzerland"
+      ],
+      "correct answer": "Bavaria, Germany"
+    },
+    {
+      "category": "Geography",
+      "question": "How many federal states does Austria have?",
+      "answers": ["16", "9", "26"],
+      "correct answer": "9"
+    },
+    {
+      "category": "History",
+      "question": "Which cantons were the founding members of the Alte Eidgenossenschaft?",
+      "answers": [
+        "Uri, Luzern, Zug",
+        "Zurich, Glarus, Schwyz",
+        "Uri, Schwyz, Unterwalden"
+      ],
+      "correct answer": "Uri, Schwyz, Unterwalden"
+    },
+    {
+      "category": "History",
+      "question": "Which cantons were the founding members of the Alte Eidgenossenschaft?",
+      "answers": [
+        "Uri, Luzern, Zug",
+        "Zurich, Glarus, Schwyz",
+        "Uri, Schwyz, Unterwalden"
+      ],
+      "correct answer": "Uri, Schwyz, Unterwalden"
+    }
+  ]
+}
