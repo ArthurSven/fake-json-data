@@ -8,7 +8,7 @@
         "French, Italian, German, Romansch",
         "Italian, German, French, Yiddish"
       ],
-      "correct answer": "French, Italian, German, Romansch"
+      "correct_answer": "French, Italian, German, Romansch"
     },
     {
       "category": "Geography",
@@ -18,13 +18,13 @@
         "South Tyrol, Austria",
         "Graubunden, Switzerland"
       ],
-      "correct answer": "Bavaria, Germany"
+      "correct_answer": "Bavaria, Germany"
     },
     {
       "category": "Geography",
       "question": "How many federal states does Austria have?",
       "answers": ["16", "9", "26"],
-      "correct answer": "9"
+      "correct_answer": "9"
     },
     {
       "category": "History",
@@ -34,7 +34,7 @@
         "Zurich, Glarus, Schwyz",
         "Uri, Schwyz, Unterwalden"
       ],
-      "correct answer": "Uri, Schwyz, Unterwalden"
+      "correct_answer": "Uri, Schwyz, Unterwalden"
     },
     {
       "category": "History",
@@ -44,13 +44,13 @@
         "1990",
         "1871"
       ],
-      "correct answer": "1871"
+      "correct_answer": "1871"
     },
     {
       "category": "Languages",
       "question": "Which of the following greetings are you likely to hear in Austria?",
       "answers": ["Moin", "Servus", "Gruezi"],
-      "correct answer": "Servus"
+      "correct_answer": "Servus"
     }
   ]
 }
