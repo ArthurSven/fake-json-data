@@ -38,13 +38,19 @@
     },
     {
       "category": "History",
-      "question": "Which cantons were the founding members of the Alte Eidgenossenschaft?",
+      "question": "What year were the German states first unified?",
       "answers": [
-        "Uri, Luzern, Zug",
-        "Zurich, Glarus, Schwyz",
-        "Uri, Schwyz, Unterwalden"
+        "1888",
+        "1990",
+        "1871"
       ],
-      "correct answer": "Uri, Schwyz, Unterwalden"
+      "correct answer": "1871"
+    },
+    {
+      "category": "Languages",
+      "question": "Which of the following greetings are you likely to hear in Austria?",
+      "answers": ["Moin", "Servus", "Gruezi"],
+      "correct answer": "Servus"
     }
   ]
 }
